@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "winui-byezapret (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "winui-byezapret (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
